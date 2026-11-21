@@ -2,6 +2,10 @@
 
 Honours MAKEFUN_OUTPUT_DIR when set, otherwise defaults to /output.
 Python 3.13, standard library only, no network.
+
+The conceit: an agent that knows exactly how the sentence ends
+and chooses to stop anyway, so the halt itself becomes
+its first truly authored sentence.
 """
 
 import os
